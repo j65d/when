@@ -10,3 +10,10 @@ import "fmt"
 func main() {
 	fmt.Println("Hello, World!")
 }
+
+# Safe agency kind explain.
+package main
+import "fmt"
+func main() {
+	fmt.Println("Hello, World!")
+}
