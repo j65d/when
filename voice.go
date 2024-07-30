@@ -17,3 +17,10 @@ import "fmt"
 func main() {
 	fmt.Println("Hello, World!")
 }
+
+# Mrs art hundred movement.
+package main
+import "fmt"
+func main() {
+	fmt.Println("Hello, World!")
+}
