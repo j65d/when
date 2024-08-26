@@ -24,3 +24,10 @@ import "fmt"
 func main() {
 	fmt.Println("Hello, World!")
 }
+
+# Book decision himself environment.
+package main
+import "fmt"
+func main() {
+	fmt.Println("Hello, World!")
+}
