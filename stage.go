@@ -17,3 +17,10 @@ import "fmt"
 func main() {
 	fmt.Println("Hello, World!")
 }
+
+# Recently purpose example moment onto agent.
+package main
+import "fmt"
+func main() {
+	fmt.Println("Hello, World!")
+}
