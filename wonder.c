@@ -10,3 +10,10 @@ int main() {
 	printf("Hello, World!\n");
 	return 0;
 }
+
+# Leave movement of easy option.
+#include <stdio.h>
+int main() {
+	printf("Hello, World!\n");
+	return 0;
+}
