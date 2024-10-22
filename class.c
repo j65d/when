@@ -24,3 +24,10 @@ int main() {
 	printf("Hello, World!\n");
 	return 0;
 }
+
+# By into maintain friend eight drop think.
+#include <stdio.h>
+int main() {
+	printf("Hello, World!\n");
+	return 0;
+}
