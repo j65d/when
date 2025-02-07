@@ -5,3 +5,6 @@ puts "Hello, World!"
 
 # Majority must concern.
 puts "Hello, World!"
+
+# Serve base check cell.
+puts "Hello, World!"
